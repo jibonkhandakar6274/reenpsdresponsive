@@ -1,0 +1,204 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	.header-top{
+		text-align: center;
+	}
+	.header-top-right {
+		float: unset;
+		text-align: center;
+		padding-top: 20px;
+	}
+	.navbar-nav{
+		text-align: center;
+	}
+	.search-btn {
+		text-align: center;
+	}
+	.banner-content h2 {
+		font-size: 35px;
+	}
+	.banner-content p {
+		font-size: 14px;
+		padding: 12px 0;
+	}
+	.banner-content a {
+		padding: 10px 15px !important;
+		font-size: 14px;
+		margin-top: 6px;
+	}
+	.title h2 {
+		font-size: 35px;
+	}
+	.title p {
+		font-size: 15px;
+	}
+	.media-body p {
+		font-size: 14px;
+		padding-bottom: 25px;
+	}
+	#work-with-us a.custom-btn {
+		margin-top: 22px;
+		padding: 10px 15px !important;
+		font-size: 14px;
+	}
+	footer {
+		text-align: center;
+	}
+	.footer-title h5 {
+		font-size: 20px;
+		padding-top: 20px;
+	}
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.header-top{
+		text-align: center;
+	}
+	.header-top-right {
+		float: unset;
+		text-align: center;
+		padding-top: 20px;
+	}
+	.navbar-nav{
+		text-align: center;
+	}
+	.search-btn {
+		text-align: center;
+	}
+	.banner-content h2 {
+		font-size: 35px;
+	}
+	.banner-content p {
+		font-size: 14px;
+		padding: 12px 0;
+	}
+	.banner-content a {
+		padding: 10px 15px !important;
+		font-size: 14px;
+		margin-top: 6px;
+	}
+	.title h2 {
+		font-size: 35px;
+	}
+	.title p {
+		font-size: 15px;
+	}
+	.media-body p {
+		font-size: 14px;
+		padding-bottom: 25px;
+	}
+	#work-with-us a.custom-btn {
+		margin-top: 22px;
+		padding: 10px 15px !important;
+		font-size: 14px;
+	}
+	footer {
+		text-align: center;
+	}
+	.footer-title h5 {
+		font-size: 20px;
+		padding-top: 20px;
+	}
+}
+
+/* 
+// Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.navbar-nav{
+		text-align: center;
+	}
+	.search-btn {
+		text-align: center;
+	}
+	.banner-content h2 {
+		font-size: 40px;
+	}
+	.banner-content p {
+		font-size: 12px;
+		line-height: 20px;
+	}
+	.banner-content a {
+		padding: 10px 15px !important;
+		margin-top: 8px;
+		font-size: 12px;
+	}
+	.title h2 {
+		font-size: 38px;
+	}
+	.title p {
+		font-size: 12px;
+		padding-top: 15px;
+	}
+	.media-body p {
+		font-size: 12px;
+	}
+	#work-with-us a.custom-btn {
+		margin-top: 20px;
+		padding: 10px 15px !important;
+		font-size: 12px;
+	}
+	.footer-content p {
+		font-size: 12px;
+	}
+	.footer-content a {
+		font-size: 12px;
+	}
+	footer p {
+		font-size: 12px;
+	}
+	footer li {
+		font-size: 12px;
+	}
+	.search-area {
+		padding: 5px 3px;
+	}
+	.search-area input {
+		width: 56%;
+	}
+	.search-area button {
+		font-size: 8px;
+		padding: 8px 8px;
+	}
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+/* // only for ipad pro or ipad landscape  */
+@media only screen and (width: 1024px){
+	.banner-content h2 {
+		font-size: 40px;
+	}
+	.banner-content p {
+		font-size: 12px;
+	}
+	.banner-content a {
+		padding: 12px 30px !important;
+		margin-top: 10px;
+	}
+	.title h2 {
+		font-size: 40px;
+	}
+	.title p {
+		font-size: 12px;
+		padding-top: 15px;
+	}
+	.media-body p {
+		font-size: 14px;
+	}
+	#work-with-us a.custom-btn {
+		margin-top: 25px;
+		padding: 12px 30px !important;
+	}
+	footer li {
+		font-size: 15px;
+	}
+	.search-area button {
+		padding: 8px 8px;
+		font-size: 11px;
+	}
+}
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
